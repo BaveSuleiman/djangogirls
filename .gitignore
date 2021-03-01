@@ -1,3 +1,8 @@
-myvenv/
+*.pyc
+*~
+/.vscode
+__pycache__
+myvenv
 db.sqlite3
-__pycache__/
+/static
+.DS_Store
